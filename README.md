@@ -1,2 +1,1 @@
-# Study
-# This repo is Study
+Ziyotek is the Best.
